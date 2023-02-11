@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "623723313230",
+    "project_id": "aurcc-hostel-leave",
+    "storage_bucket": "aurcc-hostel-leave.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:623723313230:android:e05244570d8b2fc96ceb1f",
+        "android_client_info": {
+          "package_name": "com.example.aurcc_hostel_leave"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "623723313230-jdqrn4i5drp7k0hh35p4ftlosri684ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6GMnQRlzrzkas7PLm263PXVU5j45MYvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "623723313230-jdqrn4i5drp7k0hh35p4ftlosri684ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
